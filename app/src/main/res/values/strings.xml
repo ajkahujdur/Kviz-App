@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">KvizZastave</string>
+    <string name="sljedece">Sljedeće</string>
+    <string name="detalji">Detalji</string>
+    <string name="detalji_austrija">Glavni grad: Beč\nBroj stanovnika: 8 331 930\nPovršina: 83 871
+    \nNajveće jezero: Neusiedler See</string>
+    <string name="detalji_bosna">Glavni grad: Sarajevo\nBroj stanovnika: 4 498 976 \nPovršina: 51 209
+    \nNajviša tačka: Maglić</string>
+    <string name="detalji_belgija">Glavni grad: Brisel\nBroj stanovnika: 11 007 020 \nPovršina: 30 528\nNajviša tačka: Signal de Botrange</string>
+    <string name="detalji_njemacka">Glavni grad: Berlin\nBroj stanovnika: 80 399 300 \nPovršina: 357 104
+        \nNajveće jezero: Bodensko jezero\nNajveća rijeka: Rajna</string>
+    <string name="detalji_danska">Glavni grad: Kopenhagen\nBroj stanovnika: 5 699 200 \nPovršina: 43094
+    \nNajveća rijeka: Gudenå\nNajveće jezero: Arresø</string>
+    <string name="detalji_finska">Glavni grad: Helsinki\nBroj stanovnika: 5 457 429 \nPovršina: 338 424
+    \nNajveća rijeka: Kemijoki\nNajveće jezero: Saimaa</string>
+    <string name="detalji_portugal">Glavni grad: Lisabon\nBroj stanovnika: 10 427 301 \nPovršina: 92 212
+    \nNajveća rijeka: Tagus\nNajviša tačka: Ponta do Pico</string>
+    <string name="detalji_svedska">Glavni grad: Stockholm\nBroj stanovnika: 9 415 295 \nPovršina: 449 964
+    \nNajveće kezero: Vänern\nNajviša tačka: Kebnekaise</string>
+    <string name="detalji_turska">Glavni grad: Ankara\nBroj stanovnika: 73 722 988 \nPovršina: 783 562
+    \nNajveće jezero: Van\nNajvoša tačka: Ararat</string>
+    <string name="detalji_italija">Glavni grad: Rim\nBroj stanovnika: 59 943 933 \nPovršina: 301.338
+    \nNajveća rijeka: Po\nNajviša tačka: Mont Blanc</string>
+
+</resources>
